@@ -1,12 +1,20 @@
 # Grouping Multiple Resources in Vue Scheduler
 
+## Repository Description
+
+This repository demonstrates how to effectively group multiple resources in Syncfusion's Vue Scheduler component, providing developers with practical examples and best practices for organizing appointments and resources hierarchically.
+
 A quick start project that shows how to group multiple resources in Syncfusion's Vue Scheduler. This project also includes a code snippet to define the group data source, and map the Scheduler with appointments as well as how to group resources under dates and group them hierarchically in the Vue Scheduler.
 
+## Live Examples & Documentation
 
-Example: https://ej2.syncfusion.com/vue/demos/#/bootstrap5/schedule/group-bychild.html  
+- **Example**: https://ej2.syncfusion.com/vue/demos/#/bootstrap5/schedule/group-bychild.html  
+- **Documentation**: https://ej2.syncfusion.com/vue/documentation/schedule/resources/#grouping-single-level-resources
 
-Documentation: https://ej2.syncfusion.com/vue/documentation/schedule/resources/#grouping-single-level-resources  
- 
+### Vue Framework Documentation Links
+
+- **Introduction**: https://ej2.syncfusion.com/vue/documentation/introduction
+- **Schedule Component**: https://ej2.syncfusion.com/vue/documentation/schedule/getting-started
 
 ## Project pre-requisites
 
@@ -36,6 +44,18 @@ npm install
 
 Run `npm run serve` command for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
-## Further help
+## Features
 
-To get more help on the vue CLI use go check out the [Vue-Cli README](https://github.com/vuejs/vue-cli/blob/master/README.md).
+- Group multiple resources by date or hierarchically
+- Define custom group data sources
+- Map appointments to grouped resources
+- Responsive design with Bootstrap 5 styling
+
+## Additional Resources
+
+- **Vue CLI**: https://github.com/vuejs/vue-cli/blob/master/README.md
+- **Syncfusion Vue Components**: https://www.syncfusion.com/vue-components
+
+## Support
+
+For issues, questions, or contributions related to this project, please refer to the Syncfusion documentation or contact Syncfusion support.
